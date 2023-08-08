@@ -1,3 +1,9 @@
 fn main() {
-    println!("Hello, world!");
+    println!("Hello, World!");
+    println!("Da bin ich..");
+    println!("Hello, Nicole!");
+    println!("...bing..");
+
 }
+
+fn check () {}
